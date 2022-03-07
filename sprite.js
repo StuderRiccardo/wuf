@@ -1,4 +1,4 @@
-export default class MovePg {
+export default class NinjaSprites {
     static running = [
       "img/Run (1).png",
       "img/Run (2).png",

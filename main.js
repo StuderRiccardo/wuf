@@ -1,3 +1,4 @@
+import Rectangle from "./Rectangle";
 import AnimatedObject from "./AnimatedObject";
 import NinjaSprites from "./NinjaSprites";
 export default class GameArea {
@@ -58,3 +59,4 @@ export default class GameArea {
     this.ninja.speedY = 0;
   };
 }
+
