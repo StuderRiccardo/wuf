@@ -1,6 +1,6 @@
-import AnimatedObject from "./AnimatedObject";
-import NinjaSprites from "./NinjaSprites";
-import ObstacleSprites from "./ObstacleSprites";
+import AnimatedObject from "./AnimatedObject.js";
+import NinjaSprites from "./NinjaSprites.js";
+import ObstacleSprites from "./ObstacleSprites.js";
 export default class GameArea {
   canvas = undefined;
   ninja;
